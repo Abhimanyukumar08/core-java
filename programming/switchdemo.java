@@ -1,4 +1,4 @@
-pubic class switchdemo
+public class switchdemo
 {
 	public static void main(String[]args)
 {
